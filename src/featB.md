@@ -6,3 +6,9 @@ Okay next one!
 
 yeah!
 The 2nd feature.
+
+## Party commando
+
+- `ls`
+- `dir`
+- `cd`
