@@ -43,14 +43,14 @@ Not the nicest git-graph:
 ![fazit](git-dev-branch_fazit.png)
 
 The single branches should be updated before merging.
-Steps to activate:
 
 - Settings
-- Branches
-- Protection rules
-- [x] Require a pull request before merging
-- [x] Require status checks to pass before merging
-- [x] Require branches to be up to date before merging
+  - [x] Always suggest updating pull request branches 
+  - Branches
+    - Protection rules
+      - [x] Require a pull request before merging
+      - [x] Require status checks to pass before merging
+      - [x] Require branches to be up to date before merging
 
 Further details: https://github.blog/changelog/2022-02-03-more-ways-to-keep-your-pull-request-branch-up-to-date/
 
